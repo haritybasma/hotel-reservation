@@ -11,6 +11,17 @@ Je l'ai réalisée pour réviser les notions vues en LST Ingénierie Informatiqu
 - réservation d'une chambre libre pour 1 à 10 nuits, le montant est calculé automatiquement
 - liste des réservations du client connecté, modification du nombre de nuits, suppression avec confirmation
 - une chambre se libère quand sa réservation est supprimée
+## Captures d'écran
+
+### Liste des chambres
+<img width="474" height="310" alt="image" src="https://github.com/user-attachments/assets/4a9366fe-d832-453d-b1c6-41b0f84b4dcb" />
+
+### Réservation d'une chambre
+<img width="464" height="204" alt="image" src="https://github.com/user-attachments/assets/86ecfe5a-9f2e-433f-876a-edc7da8db29c" />
+
+
+### Mes réservations
+<img width="476" height="197" alt="image" src="https://github.com/user-attachments/assets/663c5185-dda5-453a-8aed-f8f076aa3b62" />
 
 ## Ce que j'ai utilisé
 
